@@ -1,0 +1,7 @@
+{
+  "name": "MediBook - Healthcare Appointment Booking System",
+  "description": "Production-grade MERN-style healthcare appointment booking platform with real-time slot availability, role-based dashboards for Patients, Doctors, and Admins, and RESTful API architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
